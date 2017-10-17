@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="52" key="passwordStores.location.y"/>
+	<item value="586" key="passwordStores.size.y"/>
+	<item value="-79" key="passwordStores.location.x"/>
+	<item value="1368" key="passwordStores.size.x"/>
+	<item value="svn+ssh://mjstahld@uni.mj-stahl.de/var/www/vhosts/mj-stahl.de/git/uni.mj-stahl.de" key="RepositorySelectionPage.lastRepository"/>
+	<item value="" key="DirectorySelectionPage.lastParent_svn+ssh://mjstahld@uni.mj-stahl.de/var/www/vhosts/mj-stahl.de/git/uni.mj-stahl.de"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="svn+ssh://mjstahld@uni.mj-stahl.de/var/www/vhosts/mj-stahl.de/git/uni.mj-stahl.de"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
